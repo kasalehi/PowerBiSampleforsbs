@@ -4,9 +4,6 @@ Dear SBS,
 
 Thank you for your interest in my profile. As requested, this repository contains a **sample Power BI report (.pbix)** for your review.
 
-## 📁 Contents
-
-- `[YourReport].pbix` – Sample Power BI report
 
 ## ▶️ How to View
 
